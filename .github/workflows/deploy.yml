@@ -28,9 +28,14 @@ jobs:
           ${{ runner.os }}-pip-
     - name: Install Python dependencies
       run: |
+        pwd
         cd datasette && pip install -e '.[test]'
+        pwd
     - name: Build fixtures.db
-      run: python datasette/tests/fixtures.py fixtures.db
+      run: |
+        python datasette/tests/fixtures.py fixtures.db
+        pwd
+        ls -lah
     - name: Set up Cloud Run
       uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
       with:
@@ -39,6 +44,8 @@ jobs:
         service_account_key: ${{ secrets.GCP_SA_KEY }}
     - name: Deploy to Cloud Run
       run: |-
+        pwd
+        ls -lah
         gcloud config set run/region us-central1
         gcloud config set project datasette-222320
         datasette publish cloudrun fixtures.db \
