@@ -46,6 +46,7 @@ jobs:
       run: |-
         pwd
         ls -lah
+        find /home/runner/work/latest-datasette-with-all-plugins
         gcloud config set run/region us-central1
         gcloud config set project datasette-222320
         datasette publish cloudrun fixtures.db \
