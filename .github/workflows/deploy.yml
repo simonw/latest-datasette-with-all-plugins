@@ -30,7 +30,7 @@ jobs:
       run: |
         cd datasette && pip install -e '.[test]'
     - name: Build fixtures.db
-      run: python datasette/tests/fixtures.py fixtures.db fixtures.json
+      run: python datasette/tests/fixtures.py fixtures.db
     - name: Set up Cloud Run
       uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
       with:
@@ -42,7 +42,7 @@ jobs:
         gcloud config set run/region us-central1
         gcloud config set project datasette-222320
         datasette publish cloudrun fixtures.db \
-            -m fixtures.json \
+            -m metadata.yml \
             --branch=master \
             --extra-options="--config template_debug:1" \
             --service=datasette-with-all-plugins \
