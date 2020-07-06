@@ -10,6 +10,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
     - name: Check out datasette
       uses: actions/checkout@v2
       with:
