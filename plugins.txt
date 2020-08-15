@@ -31,7 +31,7 @@ datasette-media
 datasette-permissions-sql
 datasette-auth-tokens
 datasette-psutil
-# datasette-saved-queries
+datasette-saved-queries
 datasette-block-robots
 datasette-auth-passwords
 datasette-insert
