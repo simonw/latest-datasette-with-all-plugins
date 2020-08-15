@@ -26,11 +26,14 @@ datasette-column-inspect
 datasette-edit-tables
 datasette-publish-fly
 datasette-show-errors
-datasette-publish-now
+datasette-publish-vercel
 datasette-media
 datasette-permissions-sql
 datasette-auth-tokens
 datasette-psutil
 datasette-saved-queries
 datasette-block-robots
-datasette-glitch
+datasette-auth-passwords
+datasette-insert
+datasette-copyable
+datasette-graphql
