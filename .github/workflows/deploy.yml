@@ -48,7 +48,7 @@ jobs:
     - name: Test that plugins successfully installed
       run: |
         cd latest-datasette-with-all-plugins
-        cat plugins.txt | sort > plugins-sorted.txt
+        cat plugins.txt | grep -v '#' | sort > plugins-sorted.txt
         datasette --get /-/plugins.json | jq '.[].name' -r | sort | diff plugins-sorted.txt -
     - name: Set up Cloud Run
       uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
@@ -64,7 +64,7 @@ jobs:
         gcloud config set run/region us-central1
         gcloud config set project datasette-222320
         datasette publish cloudrun fixtures.db \
-            -m metadata.yml \
+            -m latest-datasette-with-all-plugins/metadata.yml \
             --branch=master \
             --extra-options="--config template_debug:1" \
             --service=datasette-with-all-plugins \
