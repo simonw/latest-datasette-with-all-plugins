@@ -65,7 +65,7 @@ jobs:
         gcloud config set project datasette-222320
         datasette publish cloudrun fixtures.db \
             -m latest-datasette-with-all-plugins/metadata.yml \
-            --branch=master \
+            --branch=main \
             --extra-options="--config template_debug:1" \
             --service=datasette-with-all-plugins \
-            --install=datasette-vega
+            $(cat latest-datasette-with-all-plugins/plugins.txt | grep -v '#' | awk '{ print "--install " $1 }')
