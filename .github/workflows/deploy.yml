@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
+      with:
+        path: latest-datasette-with-all-plugins
     - name: Check out datasette
       uses: actions/checkout@v2
       with:
@@ -38,6 +40,16 @@ jobs:
         python datasette/tests/fixtures.py fixtures.db
         pwd
         ls -lah
+    - name: Install all plugins
+      run: |
+        cd latest-datasette-with-all-plugins
+        pip install -r plugins.txt
+        cd ..
+    - name: Test that plugins successfully installed
+      run: |
+        cd latest-datasette-with-all-plugins
+        cat plugins.txt | grep -v '#' | sort > plugins-sorted.txt
+        datasette --get /-/plugins.json | jq '.[].name' -r | sort | diff plugins-sorted.txt -
     - name: Set up Cloud Run
       uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
       with:
