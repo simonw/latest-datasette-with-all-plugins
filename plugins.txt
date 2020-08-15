@@ -7,7 +7,7 @@ datasette-sqlite-fts4
 datasette-pretty-json
 datasette-jellyfish
 datasette-render-html
-datasette-jq
+# datasette-jq
 datasette-bplist
 datasette-render-binary
 datasette-auth-github
