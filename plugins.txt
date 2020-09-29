@@ -38,4 +38,4 @@ datasette-insert
 datasette-copyable
 datasette-graphql
 datasette-yaml
-datasette-dateutil
+datasette-dateutil>=0.2
