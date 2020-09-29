@@ -2,7 +2,7 @@ name: Deploy Datasette with all plugins
 
 on:
   push:
-  repository_dispatch:
+  workflow_dispatch:
   schedule:
     - cron:  '12 0 * * *'
 
