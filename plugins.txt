@@ -23,7 +23,7 @@ datasette-ics
 datasette-configure-fts
 datasette-search-all
 datasette-column-inspect
-datasette-edit-tables
+datasette-edit-schema
 datasette-publish-fly
 datasette-show-errors
 datasette-publish-vercel
