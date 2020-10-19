@@ -1,3 +1,4 @@
+datasette-json-preview
 datasette-cluster-map
 datasette-leaflet-geojson
 datasette-vega
