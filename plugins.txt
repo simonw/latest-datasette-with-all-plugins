@@ -23,7 +23,7 @@ datasette-mask-columns
 datasette-ics
 datasette-configure-fts
 datasette-search-all
-datasette-column-inspect
+# datasette-column-inspect
 datasette-edit-schema
 datasette-publish-fly
 datasette-show-errors
