@@ -16,7 +16,7 @@ datasette-rure
 datasette-atom
 datasette-render-timestamps
 datasette-haversine
-datasette-render-markdown
+datasette-render-markdown>=1.2
 datasette-template-sql
 datasette-upload-csvs
 datasette-mask-columns
