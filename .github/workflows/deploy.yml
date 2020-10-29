@@ -39,6 +39,7 @@ jobs:
       run: |
         python datasette/tests/fixtures.py fixtures.db
     - name: Download some other databases
+      run: |
         wget https://datasette-render-images-demo.datasette.io/favicons.db
         wget https://github-to-sqlite.dogsheep.net/github.db
         ls -lah
