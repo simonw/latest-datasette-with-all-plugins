@@ -38,7 +38,9 @@ jobs:
     - name: Build fixtures.db
       run: |
         python datasette/tests/fixtures.py fixtures.db
-        pwd
+    - name: Download some other databases
+        wget https://datasette-render-images-demo.datasette.io/favicons.db
+        wget https://github-to-sqlite.dogsheep.net/github.db
         ls -lah
     - name: Install all plugins
       run: |
@@ -64,7 +66,7 @@ jobs:
         find /home/runner/work/latest-datasette-with-all-plugins
         gcloud config set run/region us-central1
         gcloud config set project datasette-222320
-        datasette publish cloudrun fixtures.db \
+        datasette publish cloudrun fixtures.db github.db favicons.db \
             -m latest-datasette-with-all-plugins/metadata.yml \
             --branch=main \
             --extra-options="--config template_debug:1" \
