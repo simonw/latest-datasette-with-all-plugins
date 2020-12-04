@@ -55,7 +55,7 @@ jobs:
         datasette -i ../fixtures.db --get /
         datasette --get /-/plugins.json | jq '.[].name' -r | sort | diff plugins-sorted.txt -
     - name: Set up Cloud Run
-      uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+      uses: google-github-actions/setup-gcloud@master
       with:
         version: '275.0.0'
         service_account_email: ${{ secrets.GCP_SA_EMAIL }}
