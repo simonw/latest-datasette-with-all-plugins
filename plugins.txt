@@ -42,3 +42,4 @@ datasette-yaml
 datasette-dateutil>=0.2
 datasette-indieauth
 datasette-css-properties
+datasette-export-notebook
