@@ -41,6 +41,6 @@ datasette-graphql
 datasette-yaml
 datasette-dateutil>=0.2
 datasette-indieauth
-datasette-css-properties
+datasette-css-properties>=0.2
 datasette-export-notebook
 datasette-debug-asgi
