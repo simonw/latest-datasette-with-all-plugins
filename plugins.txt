@@ -44,3 +44,4 @@ datasette-indieauth
 datasette-css-properties>=0.2
 datasette-export-notebook>=0.2
 datasette-debug-asgi
+datasette-leaflet-freedraw
