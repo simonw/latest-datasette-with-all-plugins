@@ -72,4 +72,5 @@ jobs:
             --branch=main \
             --extra-options="--config template_debug:1" \
             --service=datasette-with-all-plugins \
+            --install=pysqlite3-binary \
             $(cat latest-datasette-with-all-plugins/plugins.txt | grep -v '#' | awk '{ print "--install " $1 }')
