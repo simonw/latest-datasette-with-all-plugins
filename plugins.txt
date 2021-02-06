@@ -6,7 +6,7 @@ datasette-json-html
 datasette-render-images
 datasette-sqlite-fts4
 datasette-pretty-json
-datasette-jellyfish
+datasette-jellyfish>=1.0
 datasette-render-html
 # datasette-jq
 datasette-bplist
