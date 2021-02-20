@@ -1,4 +1,4 @@
-datasette-json-preview==0.2
+datasette-json-preview==0.3
 datasette-cluster-map
 datasette-leaflet-geojson
 datasette-vega
