@@ -47,3 +47,4 @@ datasette-debug-asgi
 datasette-leaflet
 datasette-leaflet-freedraw>=0.1.2
 datasette-tiles
+datasette-pyinstrument
