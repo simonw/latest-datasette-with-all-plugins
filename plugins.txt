@@ -48,3 +48,4 @@ datasette-leaflet
 datasette-leaflet-freedraw>=0.1.2
 datasette-tiles
 datasette-pyinstrument
+datasette-query-links
