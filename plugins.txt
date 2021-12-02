@@ -51,3 +51,4 @@ datasette-pyinstrument
 datasette-query-links>=0.1.2
 datasette-statistics
 datasette-jupyterlite
+datasette-hovercards
