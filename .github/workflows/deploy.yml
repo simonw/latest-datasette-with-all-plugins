@@ -70,7 +70,7 @@ jobs:
         datasette publish cloudrun fixtures.db github.db favicons.db \
             -m latest-datasette-with-all-plugins/metadata.yml \
             --branch=main \
-            --extra-options="--config template_debug:1" \
+            --extra-options="--setting template_debug 1 --setting trace_debug 1" \
             --service=datasette-with-all-plugins \
             --install=pysqlite3-binary \
             $(cat latest-datasette-with-all-plugins/plugins.txt | grep -v '#' | awk '{ print "--install " $1 }')
