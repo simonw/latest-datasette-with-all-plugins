@@ -57,9 +57,10 @@ jobs:
     - name: Update pipdeptree.txt
       run: |
         pip install pipdeptree
-        pipdeptree > pipdeptree.txt
+        pipdeptree > latest-datasette-with-all-plugins/pipdeptree.txt
     - name: Commit and push if it changed
       run: |-
+        cd latest-datasette-with-all-plugins
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add pipdeptree.txt
