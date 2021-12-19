@@ -47,6 +47,9 @@ jobs:
       run: |
         cd latest-datasette-with-all-plugins
         pip install -r plugins.txt
+        # And show the deptree for debugging
+        pip install pipdeptree
+        pipdeptree      
         cd ..
     - name: Test that plugins successfully installed
       run: |
