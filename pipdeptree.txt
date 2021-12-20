@@ -13,7 +13,7 @@ datasette-atom==0.8.1
       - pyparsing [required: >=2.0.2,!=3.0.5, installed: 3.0.6]
     - six [required: >=1.9.0, installed: 1.16.0]
     - webencodings [required: Any, installed: 0.5.1]
-  - datasette [required: >=0.49, installed: 0.60a0]
+  - datasette [required: >=0.49, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -57,7 +57,7 @@ datasette-atom==0.8.1
     - python-dateutil [required: Any, installed: 2.8.2]
       - six [required: >=1.5, installed: 1.16.0]
 datasette-auth-github==0.13.1
-  - datasette [required: >=0.51, installed: 0.60a0]
+  - datasette [required: >=0.51, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -97,7 +97,7 @@ datasette-auth-github==0.13.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-auth-passwords==0.4.1
-  - datasette [required: >=0.56.1, installed: 0.60a0]
+  - datasette [required: >=0.56.1, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -137,7 +137,7 @@ datasette-auth-passwords==0.4.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-auth-tokens==0.3
-  - datasette [required: >=0.44, installed: 0.60a0]
+  - datasette [required: >=0.44, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -177,7 +177,7 @@ datasette-auth-tokens==0.3
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-block-robots==1.0
-  - datasette [required: >=0.50, installed: 0.60a0]
+  - datasette [required: >=0.50, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -218,7 +218,7 @@ datasette-block-robots==1.0
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-bplist==0.1
   - bpylist [required: Any, installed: 0.1.4]
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -258,7 +258,7 @@ datasette-bplist==0.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-cluster-map==0.17.2
-  - datasette [required: >=0.54, installed: 0.60a0]
+  - datasette [required: >=0.54, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -298,7 +298,7 @@ datasette-cluster-map==0.17.2
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
   - datasette-leaflet [required: >=0.2.2, installed: 0.2.2]
-    - datasette [required: Any, installed: 0.60a0]
+    - datasette [required: Any, installed: 0.60a1]
       - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
       - asgi-csrf [required: >=0.9, installed: 0.9]
         - itsdangerous [required: Any, installed: 2.0.1]
@@ -338,7 +338,7 @@ datasette-cluster-map==0.17.2
         - click [required: >=7.0, installed: 8.0.3]
         - h11 [required: >=0.8, installed: 0.12.0]
 datasette-configure-fts==1.1
-  - datasette [required: >=0.51, installed: 0.60a0]
+  - datasette [required: >=0.51, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -386,7 +386,7 @@ datasette-configure-fts==1.1
     - sqlite-fts4 [required: Any, installed: 1.0.1]
     - tabulate [required: Any, installed: 0.8.9]
 datasette-copyable==0.3.1
-  - datasette [required: >=0.49, installed: 0.60a0]
+  - datasette [required: >=0.49, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -427,7 +427,7 @@ datasette-copyable==0.3.1
       - h11 [required: >=0.8, installed: 0.12.0]
   - tabulate [required: Any, installed: 0.8.9]
 datasette-css-properties==0.2
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -467,7 +467,7 @@ datasette-css-properties==0.2
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-dateutil==0.2.1
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -509,7 +509,7 @@ datasette-dateutil==0.2.1
   - python-dateutil [required: Any, installed: 2.8.2]
     - six [required: >=1.5, installed: 1.16.0]
 datasette-debug-asgi==1.1
-  - datasette [required: >=0.50, installed: 0.60a0]
+  - datasette [required: >=0.50, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -549,7 +549,7 @@ datasette-debug-asgi==1.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-edit-schema==0.4
-  - datasette [required: >=0.51, installed: 0.60a0]
+  - datasette [required: >=0.51, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -597,7 +597,7 @@ datasette-edit-schema==0.4
     - sqlite-fts4 [required: Any, installed: 1.0.1]
     - tabulate [required: Any, installed: 0.8.9]
 datasette-export-notebook==1.0
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -637,7 +637,7 @@ datasette-export-notebook==1.0
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-graphql==2.0
-  - datasette [required: >=0.58.1, installed: 0.60a0]
+  - datasette [required: >=0.58.1, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -690,7 +690,7 @@ datasette-graphql==2.0
     - sqlite-fts4 [required: Any, installed: 1.0.1]
     - tabulate [required: Any, installed: 0.8.9]
 datasette-haversine==0.2
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -731,7 +731,7 @@ datasette-haversine==0.2
       - h11 [required: >=0.8, installed: 0.12.0]
   - haversine [required: Any, installed: 2.5.1]
 datasette-hovercards==0.1a0
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -771,7 +771,7 @@ datasette-hovercards==0.1a0
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-ics==0.5
-  - datasette [required: >=0.49, installed: 0.60a0]
+  - datasette [required: >=0.49, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -819,7 +819,7 @@ datasette-ics==0.5
     - six [required: >1.5, installed: 1.16.0]
     - tatsu [required: >4.2, installed: 5.6.1]
 datasette-indieauth==1.2
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -859,7 +859,7 @@ datasette-indieauth==1.2
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-insert==0.6
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -907,7 +907,7 @@ datasette-insert==0.6
     - sqlite-fts4 [required: Any, installed: 1.0.1]
     - tabulate [required: Any, installed: 0.8.9]
 datasette-jellyfish==1.0.1
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -948,7 +948,7 @@ datasette-jellyfish==1.0.1
       - h11 [required: >=0.8, installed: 0.12.0]
   - jellyfish [required: >=0.8.2, installed: 0.8.9]
 datasette-json-html==1.0.1
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -988,7 +988,7 @@ datasette-json-html==1.0.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-json-preview==0.3
-  - datasette [required: >=0.55, installed: 0.60a0]
+  - datasette [required: >=0.55, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1028,7 +1028,7 @@ datasette-json-preview==0.3
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-jupyterlite==0.1a1
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1077,7 +1077,7 @@ datasette-jupyterlite==0.1a1
     - jupyter-core [required: >=4.7, installed: 4.9.1]
       - traitlets [required: Any, installed: 5.1.1]
 datasette-leaflet-freedraw==0.2.1
-  - datasette [required: >=0.54, installed: 0.60a0]
+  - datasette [required: >=0.54, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1117,7 +1117,7 @@ datasette-leaflet-freedraw==0.2.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
   - datasette-leaflet [required: >=0.2, installed: 0.2.2]
-    - datasette [required: Any, installed: 0.60a0]
+    - datasette [required: Any, installed: 0.60a1]
       - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
       - asgi-csrf [required: >=0.9, installed: 0.9]
         - itsdangerous [required: Any, installed: 2.0.1]
@@ -1157,7 +1157,7 @@ datasette-leaflet-freedraw==0.2.1
         - click [required: >=7.0, installed: 8.0.3]
         - h11 [required: >=0.8, installed: 0.12.0]
 datasette-leaflet-geojson==0.8
-  - datasette [required: >=0.54, installed: 0.60a0]
+  - datasette [required: >=0.54, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1197,7 +1197,7 @@ datasette-leaflet-geojson==0.8
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
   - datasette-leaflet [required: >=0.2, installed: 0.2.2]
-    - datasette [required: Any, installed: 0.60a0]
+    - datasette [required: Any, installed: 0.60a1]
       - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
       - asgi-csrf [required: >=0.9, installed: 0.9]
         - itsdangerous [required: Any, installed: 2.0.1]
@@ -1237,7 +1237,7 @@ datasette-leaflet-geojson==0.8
         - click [required: >=7.0, installed: 8.0.3]
         - h11 [required: >=0.8, installed: 0.12.0]
 datasette-mask-columns==0.2.1
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1277,7 +1277,7 @@ datasette-mask-columns==0.2.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-media==0.5
-  - datasette [required: >=0.44, installed: 0.60a0]
+  - datasette [required: >=0.44, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1330,7 +1330,7 @@ datasette-media==0.5
     - sniffio [required: Any, installed: 1.2.0]
   - Pillow [required: >=7.1.2, installed: 8.4.0]
 datasette-permissions-sql==0.3a0
-  - datasette [required: >=0.44, installed: 0.60a0]
+  - datasette [required: >=0.44, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1370,7 +1370,7 @@ datasette-permissions-sql==0.3a0
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-pretty-json==0.2.1
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1410,7 +1410,7 @@ datasette-pretty-json==0.2.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-pretty-traces==0.3.1
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1450,7 +1450,7 @@ datasette-pretty-traces==0.3.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-psutil==0.2
-  - datasette [required: >=0.44, installed: 0.60a0]
+  - datasette [required: >=0.44, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1491,7 +1491,7 @@ datasette-psutil==0.2
       - h11 [required: >=0.8, installed: 0.12.0]
   - psutil [required: Any, installed: 5.8.0]
 datasette-publish-fly==1.0.2
-  - datasette [required: >=0.44, installed: 0.60a0]
+  - datasette [required: >=0.44, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1531,7 +1531,7 @@ datasette-publish-fly==1.0.2
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-publish-vercel==0.12
-  - datasette [required: >=0.59, installed: 0.60a0]
+  - datasette [required: >=0.59, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1571,7 +1571,7 @@ datasette-publish-vercel==0.12
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-pyinstrument==0.1
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1612,7 +1612,7 @@ datasette-pyinstrument==0.1
       - h11 [required: >=0.8, installed: 0.12.0]
   - pyinstrument [required: Any, installed: 4.1.1]
 datasette-query-links==0.1.2
-  - datasette [required: >=0.59a1, installed: 0.60a0]
+  - datasette [required: >=0.59a1, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1652,7 +1652,7 @@ datasette-query-links==0.1.2
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-render-binary==0.3
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1693,7 +1693,7 @@ datasette-render-binary==0.3
       - h11 [required: >=0.8, installed: 0.12.0]
   - filetype [required: Any, installed: 1.0.8]
 datasette-render-html==0.1.2
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1733,7 +1733,7 @@ datasette-render-html==0.1.2
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-render-images==0.3.2
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1778,7 +1778,7 @@ datasette-render-markdown==2.0
       - pyparsing [required: >=2.0.2,!=3.0.5, installed: 3.0.6]
     - six [required: >=1.9.0, installed: 1.16.0]
     - webencodings [required: Any, installed: 0.5.1]
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1821,7 +1821,7 @@ datasette-render-markdown==2.0
     - importlib-metadata [required: >=4.4, installed: 4.9.0]
       - zipp [required: >=0.5, installed: 3.6.0]
 datasette-render-timestamps==1.0.1
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1861,7 +1861,7 @@ datasette-render-timestamps==1.0.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-rure==0.3
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1908,7 +1908,7 @@ datasette-rure==0.3
         - pycparser [required: Any, installed: 2.21]
     - six [required: Any, installed: 1.16.0]
 datasette-saved-queries==0.2.1
-  - datasette [required: >=0.45, installed: 0.60a0]
+  - datasette [required: >=0.45, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1956,7 +1956,7 @@ datasette-saved-queries==0.2.1
     - sqlite-fts4 [required: Any, installed: 1.0.1]
     - tabulate [required: Any, installed: 0.8.9]
 datasette-search-all==1.0.1
-  - datasette [required: >=0.51, installed: 0.60a0]
+  - datasette [required: >=0.51, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1996,7 +1996,7 @@ datasette-search-all==1.0.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-show-errors==0.2
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -2040,7 +2040,7 @@ datasette-show-errors==0.2
       - idna [required: >=2.8, installed: 3.3]
       - sniffio [required: >=1.1, installed: 1.2.0]
 datasette-sqlite-fts4==0.3
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -2081,7 +2081,7 @@ datasette-sqlite-fts4==0.3
       - h11 [required: >=0.8, installed: 0.12.0]
   - sqlite-fts4 [required: Any, installed: 1.0.1]
 datasette-statistics==0.2
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -2121,7 +2121,7 @@ datasette-statistics==0.2
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-template-sql==1.0.2
-  - datasette [required: >=0.54, installed: 0.60a0]
+  - datasette [required: >=0.54, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -2161,7 +2161,7 @@ datasette-template-sql==1.0.2
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-tiles==0.6.1
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -2201,7 +2201,7 @@ datasette-tiles==0.6.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
   - datasette-leaflet [required: >=0.2.2, installed: 0.2.2]
-    - datasette [required: Any, installed: 0.60a0]
+    - datasette [required: Any, installed: 0.60a1]
       - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
       - asgi-csrf [required: >=0.9, installed: 0.9]
         - itsdangerous [required: Any, installed: 2.0.1]
@@ -2246,7 +2246,7 @@ datasette-upload-csvs==0.6.1
     - itsdangerous [required: Any, installed: 2.0.1]
     - python-multipart [required: Any, installed: 0.0.5]
       - six [required: >=1.4.0, installed: 1.16.0]
-  - datasette [required: >=0.51, installed: 0.60a0]
+  - datasette [required: >=0.51, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -2300,7 +2300,7 @@ datasette-upload-csvs==0.6.1
       - idna [required: >=2.8, installed: 3.3]
       - sniffio [required: >=1.1, installed: 1.2.0]
 datasette-vega==0.6.2
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -2340,7 +2340,7 @@ datasette-vega==0.6.2
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-yaml==0.1.1
-  - datasette [required: Any, installed: 0.60a0]
+  - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
