@@ -1068,7 +1068,7 @@ datasette-jupyterlite==0.1a1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
   - importlib-resources [required: Any, installed: 5.4.0]
-    - zipp [required: >=3.1.0, installed: 3.6.0]
+    - zipp [required: >=3.1.0, installed: 3.7.0]
   - jupyterlite [required: Any, installed: 0.1.0a18]
     - doit [required: Any, installed: 0.34.0]
       - cloudpickle [required: Any, installed: 2.0.0]
@@ -1819,7 +1819,7 @@ datasette-render-markdown==2.0
       - h11 [required: >=0.8, installed: 0.12.0]
   - markdown [required: Any, installed: 3.3.6]
     - importlib-metadata [required: >=4.4, installed: 4.10.0]
-      - zipp [required: >=0.5, installed: 3.6.0]
+      - zipp [required: >=0.5, installed: 3.7.0]
 datasette-render-timestamps==1.0.1
   - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
