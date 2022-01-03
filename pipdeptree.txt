@@ -1328,7 +1328,7 @@ datasette-media==0.5
       - sniffio [required: ==1.*, installed: 1.2.0]
     - rfc3986 [required: >=1.3,<2, installed: 1.5.0]
     - sniffio [required: Any, installed: 1.2.0]
-  - Pillow [required: >=7.1.2, installed: 8.4.0]
+  - Pillow [required: >=7.1.2, installed: 9.0.0]
 datasette-permissions-sql==0.3a0
   - datasette [required: >=0.44, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
