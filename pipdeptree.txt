@@ -946,7 +946,7 @@ datasette-jellyfish==1.0.1
       - asgiref [required: >=3.4.0, installed: 3.4.1]
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
-  - jellyfish [required: >=0.8.2, installed: 0.8.9]
+  - jellyfish [required: >=0.8.2, installed: 0.9.0]
 datasette-json-html==1.0.1
   - datasette [required: Any, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
