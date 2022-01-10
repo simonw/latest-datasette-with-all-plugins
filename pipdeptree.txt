@@ -2379,7 +2379,7 @@ datasette-yaml==0.1.1
       - asgiref [required: >=3.4.0, installed: 3.4.1]
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
-pipdeptree==2.2.0
+pipdeptree==2.2.1
   - pip [required: >=6.0.0, installed: 21.3.1]
 pytest-asyncio==0.16.0
   - pytest [required: >=5.4.0, installed: 6.2.5]
