@@ -636,7 +636,7 @@ datasette-export-notebook==1.0
       - asgiref [required: >=3.4.0, installed: 3.4.1]
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
-datasette-graphql==2.0
+datasette-graphql==2.0.1
   - datasette [required: >=0.58.1, installed: 0.60a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
@@ -1069,8 +1069,8 @@ datasette-jupyterlite==0.1a1
       - h11 [required: >=0.8, installed: 0.12.0]
   - importlib-resources [required: Any, installed: 5.4.0]
     - zipp [required: >=3.1.0, installed: 3.7.0]
-  - jupyterlite [required: Any, installed: 0.1.0a18]
-    - doit [required: Any, installed: 0.34.0]
+  - jupyterlite [required: Any, installed: 0.1.0a19]
+    - doit [required: Any, installed: 0.34.1]
       - cloudpickle [required: Any, installed: 2.0.0]
       - pyinotify [required: Any, installed: 0.9.6]
     - entrypoints [required: Any, installed: 0.3]
