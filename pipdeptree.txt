@@ -7,6 +7,7 @@ black==21.12b0
   - platformdirs [required: >=2, installed: 2.4.1]
   - tomli [required: >=0.2.6,<2.0.0, installed: 1.2.3]
   - typing-extensions [required: >=3.10.0.0, installed: 4.0.1]
+cogapp==3.3.0
 datasette-atom==0.8.1
   - bleach [required: Any, installed: 4.1.0]
     - packaging [required: Any, installed: 21.3]
