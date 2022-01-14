@@ -52,4 +52,4 @@ datasette-query-links>=0.1.2
 datasette-statistics
 datasette-jupyterlite
 datasette-hovercards
-datasette-pretty-traces>=0.3.1
+datasette-pretty-traces>=0.4
