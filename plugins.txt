@@ -45,7 +45,7 @@ datasette-css-properties>=0.2
 datasette-export-notebook>=1.0
 datasette-debug-asgi
 datasette-leaflet
-# datasette-leaflet-freedraw>=0.1.2
+datasette-leaflet-freedraw
 datasette-tiles
 datasette-pyinstrument
 datasette-query-links>=0.1.2
