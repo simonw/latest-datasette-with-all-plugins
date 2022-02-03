@@ -86,4 +86,5 @@ jobs:
             --extra-options="--setting template_debug 1 --setting trace_debug 1" \
             --service=datasette-with-all-plugins \
             --install=pysqlite3-binary \
+            --spatialite \
             $(cat latest-datasette-with-all-plugins/plugins.txt | grep -v '#' | awk '{ print "--install " $1 }')
