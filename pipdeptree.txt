@@ -1,11 +1,11 @@
 beautifulsoup4==4.10.0
   - soupsieve [required: >1.2, installed: 2.3.1]
-black==21.12b0
-  - click [required: >=7.1.2, installed: 8.0.3]
+black==22.1.0
+  - click [required: >=8.0.0, installed: 8.0.3]
   - mypy-extensions [required: >=0.4.3, installed: 0.4.3]
-  - pathspec [required: >=0.9.0,<1, installed: 0.9.0]
+  - pathspec [required: >=0.9.0, installed: 0.9.0]
   - platformdirs [required: >=2, installed: 2.4.1]
-  - tomli [required: >=0.2.6,<2.0.0, installed: 1.2.3]
+  - tomli [required: >=1.1.0, installed: 2.0.0]
   - typing-extensions [required: >=3.10.0.0, installed: 4.0.1]
 cogapp==3.3.0
 datasette-atom==0.8.1
@@ -1074,7 +1074,7 @@ datasette-jupyterlite==0.1a1
     - doit [required: Any, installed: 0.34.1]
       - cloudpickle [required: Any, installed: 2.0.0]
       - pyinotify [required: Any, installed: 0.9.6]
-    - entrypoints [required: Any, installed: 0.3]
+    - entrypoints [required: Any, installed: 0.4]
     - jupyter-core [required: >=4.7, installed: 4.9.1]
       - traitlets [required: Any, installed: 5.1.1]
 datasette-leaflet-freedraw==0.3
@@ -2383,7 +2383,7 @@ datasette-yaml==0.1.1
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
 pipdeptree==2.2.1
-  - pip [required: >=6.0.0, installed: 21.3.1]
+  - pip [required: >=6.0.0, installed: 22.0.2]
 pytest-asyncio==0.16.0
   - pytest [required: >=5.4.0, installed: 6.2.5]
     - attrs [required: >=19.2.0, installed: 21.4.0]
