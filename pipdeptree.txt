@@ -1070,7 +1070,7 @@ datasette-jupyterlite==0.1a1
       - h11 [required: >=0.8, installed: 0.12.0]
   - importlib-resources [required: Any, installed: 5.4.0]
     - zipp [required: >=3.1.0, installed: 3.7.0]
-  - jupyterlite [required: Any, installed: 0.1.0a21]
+  - jupyterlite [required: Any, installed: 0.1.0a22]
     - doit [required: Any, installed: 0.34.1]
       - cloudpickle [required: Any, installed: 2.0.0]
       - pyinotify [required: Any, installed: 0.9.6]
@@ -1491,8 +1491,8 @@ datasette-psutil==0.2
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
   - psutil [required: Any, installed: 5.9.0]
-datasette-publish-fly==1.0.2
-  - datasette [required: >=0.44, installed: 0.60.2]
+datasette-publish-fly==1.1
+  - datasette [required: >=0.60.2, installed: 0.60.2]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
       - itsdangerous [required: Any, installed: 2.0.1]
@@ -1819,7 +1819,7 @@ datasette-render-markdown==2.0
       - click [required: >=7.0, installed: 8.0.3]
       - h11 [required: >=0.8, installed: 0.12.0]
   - markdown [required: Any, installed: 3.3.6]
-    - importlib-metadata [required: >=4.4, installed: 4.10.1]
+    - importlib-metadata [required: >=4.4, installed: 4.11.0]
       - zipp [required: >=0.5, installed: 3.7.0]
 datasette-render-timestamps==1.0.1
   - datasette [required: Any, installed: 0.60.2]
