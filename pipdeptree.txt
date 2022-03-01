@@ -467,7 +467,7 @@ datasette-css-properties==0.2
       - asgiref [required: >=3.4.0, installed: 3.4.1]
       - click [required: >=7.0, installed: 8.0.4]
       - h11 [required: >=0.8, installed: 0.12.0]
-datasette-dateutil==0.2.1
+datasette-dateutil==0.3
   - datasette [required: Any, installed: 0.60.2]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
