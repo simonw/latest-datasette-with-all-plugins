@@ -1819,7 +1819,7 @@ datasette-render-markdown==2.1
       - click [required: >=7.0, installed: 8.0.4]
       - h11 [required: >=0.8, installed: 0.12.0]
   - markdown [required: Any, installed: 3.3.6]
-    - importlib-metadata [required: >=4.4, installed: 4.11.2]
+    - importlib-metadata [required: >=4.4, installed: 4.11.3]
       - zipp [required: >=0.5, installed: 3.7.0]
 datasette-render-timestamps==1.0.1
   - datasette [required: Any, installed: 0.60.2]
