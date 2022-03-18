@@ -2385,7 +2385,7 @@ datasette-yaml==0.1.1
 pipdeptree==2.2.1
   - pip [required: >=6.0.0, installed: 22.0.3]
 pytest-asyncio==0.18.2
-  - pytest [required: >=6.1.0, installed: 7.1.0]
+  - pytest [required: >=6.1.0, installed: 7.1.1]
     - attrs [required: >=19.2.0, installed: 21.4.0]
     - iniconfig [required: Any, installed: 1.1.1]
     - packaging [required: Any, installed: 21.3]
@@ -2394,7 +2394,7 @@ pytest-asyncio==0.18.2
     - py [required: >=1.8.2, installed: 1.11.0]
     - tomli [required: >=1.0.0, installed: 2.0.1]
 pytest-timeout==2.1.0
-  - pytest [required: >=5.0.0, installed: 7.1.0]
+  - pytest [required: >=5.0.0, installed: 7.1.1]
     - attrs [required: >=19.2.0, installed: 21.4.0]
     - iniconfig [required: Any, installed: 1.1.1]
     - packaging [required: Any, installed: 21.3]
@@ -2404,7 +2404,7 @@ pytest-timeout==2.1.0
     - tomli [required: >=1.0.0, installed: 2.0.1]
 pytest-xdist==2.5.0
   - execnet [required: >=1.1, installed: 1.9.0]
-  - pytest [required: >=6.2.0, installed: 7.1.0]
+  - pytest [required: >=6.2.0, installed: 7.1.1]
     - attrs [required: >=19.2.0, installed: 21.4.0]
     - iniconfig [required: Any, installed: 1.1.1]
     - packaging [required: Any, installed: 21.3]
@@ -2414,7 +2414,7 @@ pytest-xdist==2.5.0
     - tomli [required: >=1.0.0, installed: 2.0.1]
   - pytest-forked [required: Any, installed: 1.4.0]
     - py [required: Any, installed: 1.11.0]
-    - pytest [required: >=3.10, installed: 7.1.0]
+    - pytest [required: >=3.10, installed: 7.1.1]
       - attrs [required: >=19.2.0, installed: 21.4.0]
       - iniconfig [required: Any, installed: 1.1.1]
       - packaging [required: Any, installed: 21.3]
