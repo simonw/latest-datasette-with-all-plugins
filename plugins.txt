@@ -53,4 +53,4 @@ datasette-statistics
 datasette-jupyterlite
 datasette-hovercards
 datasette-pretty-traces>=0.4
-datasette-packages
+datasette-packages>=0.1.1
