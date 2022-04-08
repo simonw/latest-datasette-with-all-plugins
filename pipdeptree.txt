@@ -9,9 +9,7 @@ black==22.1.0
   - typing-extensions [required: >=3.10.0.0, installed: 4.1.1]
 cogapp==3.3.0
 datasette-atom==0.8.1
-  - bleach [required: Any, installed: 4.1.0]
-    - packaging [required: Any, installed: 21.3]
-      - pyparsing [required: >=2.0.2,!=3.0.5, installed: 3.0.7]
+  - bleach [required: Any, installed: 5.0.0]
     - six [required: >=1.9.0, installed: 1.16.0]
     - webencodings [required: Any, installed: 0.5.1]
   - datasette [required: >=0.49, installed: 0.61.1]
@@ -1021,7 +1019,7 @@ datasette-jupyterlite==0.1a1
   - importlib-resources [required: Any, installed: 5.6.0]
     - zipp [required: >=3.1.0, installed: 3.8.0]
   - jupyterlite [required: Any, installed: 0.1.0b4]
-    - doit [required: Any, installed: 0.34.2]
+    - doit [required: Any, installed: 0.35.0]
       - cloudpickle [required: Any, installed: 2.0.0]
       - pyinotify [required: Any, installed: 0.9.6]
     - entrypoints [required: Any, installed: 0.4]
@@ -1728,9 +1726,7 @@ datasette-render-images==0.3.2
       - click [required: >=7.0, installed: 8.0.4]
       - h11 [required: >=0.8, installed: 0.12.0]
 datasette-render-markdown==2.1
-  - bleach [required: Any, installed: 4.1.0]
-    - packaging [required: Any, installed: 21.3]
-      - pyparsing [required: >=2.0.2,!=3.0.5, installed: 3.0.7]
+  - bleach [required: Any, installed: 5.0.0]
     - six [required: >=1.9.0, installed: 1.16.0]
     - webencodings [required: Any, installed: 0.5.1]
   - datasette [required: Any, installed: 0.61.1]
