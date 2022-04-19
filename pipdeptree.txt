@@ -4,7 +4,7 @@ black==22.1.0
   - click [required: >=8.0.0, installed: 8.1.2]
   - mypy-extensions [required: >=0.4.3, installed: 0.4.3]
   - pathspec [required: >=0.9.0, installed: 0.9.0]
-  - platformdirs [required: >=2, installed: 2.5.1]
+  - platformdirs [required: >=2, installed: 2.5.2]
   - tomli [required: >=1.1.0, installed: 2.0.1]
   - typing-extensions [required: >=3.10.0.0, installed: 4.2.0]
 cogapp==3.3.0
@@ -1023,7 +1023,7 @@ datasette-jupyterlite==0.1a1
       - cloudpickle [required: Any, installed: 2.0.0]
       - pyinotify [required: Any, installed: 0.9.6]
     - entrypoints [required: Any, installed: 0.4]
-    - jupyter-core [required: >=4.7, installed: 4.9.2]
+    - jupyter-core [required: >=4.7, installed: 4.10.0]
       - traitlets [required: Any, installed: 5.1.1]
 datasette-leaflet-freedraw==0.3.1
   - datasette [required: >=0.60, installed: 0.61.1]
