@@ -1648,7 +1648,7 @@ datasette-render-binary==0.3
       - asgiref [required: >=3.4.0, installed: 3.5.0]
       - click [required: >=7.0, installed: 8.1.2]
       - h11 [required: >=0.8, installed: 0.12.0]
-  - filetype [required: Any, installed: 1.0.12]
+  - filetype [required: Any, installed: 1.0.13]
 datasette-render-html==0.1.2
   - datasette [required: Any, installed: 0.61.1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
