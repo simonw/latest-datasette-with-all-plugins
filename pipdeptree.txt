@@ -1,12 +1,13 @@
 beautifulsoup4==4.11.1
   - soupsieve [required: >1.2, installed: 2.3.2.post1]
-black==22.1.0
-  - click [required: >=8.0.0, installed: 8.1.2]
-  - mypy-extensions [required: >=0.4.3, installed: 0.4.3]
-  - pathspec [required: >=0.9.0, installed: 0.9.0]
-  - platformdirs [required: >=2, installed: 2.5.2]
-  - tomli [required: >=1.1.0, installed: 2.0.1]
-  - typing-extensions [required: >=3.10.0.0, installed: 4.2.0]
+blacken-docs==1.12.1
+  - black [required: >=19.3b0, installed: 22.1.0]
+    - click [required: >=8.0.0, installed: 8.1.2]
+    - mypy-extensions [required: >=0.4.3, installed: 0.4.3]
+    - pathspec [required: >=0.9.0, installed: 0.9.0]
+    - platformdirs [required: >=2, installed: 2.5.2]
+    - tomli [required: >=1.1.0, installed: 2.0.1]
+    - typing-extensions [required: >=3.10.0.0, installed: 4.2.0]
 cogapp==3.3.0
 datasette-atom==0.8.1
   - bleach [required: Any, installed: 5.0.0]
