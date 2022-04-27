@@ -42,6 +42,7 @@ jobs:
       run: |
         wget https://datasette-render-images-demo.datasette.io/favicons.db
         wget https://github-to-sqlite.dogsheep.net/github.db
+        wget https://global-power-plants.datasettes.com/global-power-plants.db
         ls -lah
     - name: Install all plugins
       run: |
@@ -80,7 +81,7 @@ jobs:
         find /home/runner/work/latest-datasette-with-all-plugins
         gcloud config set run/region us-central1
         gcloud config set project datasette-222320
-        datasette publish cloudrun fixtures.db github.db favicons.db \
+        datasette publish cloudrun fixtures.db github.db favicons.db global-power-plants.db \
             -m latest-datasette-with-all-plugins/metadata.yml \
             --branch=main \
             --extra-options="--setting template_debug 1 --setting trace_debug 1" \
