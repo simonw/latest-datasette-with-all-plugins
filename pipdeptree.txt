@@ -2429,7 +2429,7 @@ pytest-xdist==2.5.0
       - tomli [required: >=1.0.0, installed: 2.0.1]
 setuptools==56.0.0
 trustme==0.9.0
-  - cryptography [required: Any, installed: 37.0.0]
+  - cryptography [required: Any, installed: 37.0.1]
     - cffi [required: >=1.12, installed: 1.15.0]
       - pycparser [required: Any, installed: 2.21]
   - idna [required: Any, installed: 3.3]
