@@ -367,7 +367,7 @@ datasette-configure-fts==1.1
       - six [required: >=1.5, installed: 1.16.0]
     - sqlite-fts4 [required: Any, installed: 1.0.1]
     - tabulate [required: Any, installed: 0.8.9]
-datasette-copy-to-memory==0.1a2
+datasette-copy-to-memory==0.1a3
   - datasette [required: Any, installed: 0.61.1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
