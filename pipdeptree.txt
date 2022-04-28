@@ -657,7 +657,8 @@ datasette-graphql==2.0.1
       - six [required: >=1.5, installed: 1.16.0]
     - sqlite-fts4 [required: Any, installed: 1.0.1]
     - tabulate [required: Any, installed: 0.8.9]
-datasette-gzip==0.1
+datasette-gzip==0.2
+  - asgi-gzip [required: Any, installed: 0.1]
   - datasette [required: Any, installed: 0.61.1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
@@ -695,11 +696,6 @@ datasette-gzip==0.1
       - asgiref [required: >=3.4.0, installed: 3.5.0]
       - click [required: >=7.0, installed: 8.1.2]
       - h11 [required: >=0.8, installed: 0.12.0]
-  - starlette [required: Any, installed: 0.19.1]
-    - anyio [required: >=3.4.0,<5, installed: 3.5.0]
-      - idna [required: >=2.8, installed: 3.3]
-      - sniffio [required: >=1.1, installed: 1.2.0]
-    - typing-extensions [required: >=3.10.0, installed: 4.2.0]
 datasette-haversine==0.2
   - datasette [required: Any, installed: 0.61.1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
