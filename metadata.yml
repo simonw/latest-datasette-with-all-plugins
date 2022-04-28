@@ -8,3 +8,7 @@ databases:
     license_url: https://creativecommons.org/licenses/by/4.0/
     source: World Resources Institute
     source_url: http://www.wri.org/publication/global-power-plant-database
+plugins:
+  datasette-copy-to-memory:
+    databases:
+    - fixtures
