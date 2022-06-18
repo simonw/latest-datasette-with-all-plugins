@@ -1043,7 +1043,7 @@ datasette-jupyterlite==0.1a1
       - h11 [required: >=0.8, installed: 0.12.0]
   - importlib-resources [required: Any, installed: 5.8.0]
     - zipp [required: >=3.1.0, installed: 3.8.0]
-  - jupyterlite [required: Any, installed: 0.1.0b8]
+  - jupyterlite [required: Any, installed: 0.1.0b9]
     - doit [required: Any, installed: 0.36.0]
       - cloudpickle [required: Any, installed: 2.1.0]
       - importlib-metadata [required: >=4.4, installed: 4.11.4]
