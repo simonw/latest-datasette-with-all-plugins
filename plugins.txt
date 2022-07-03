@@ -37,7 +37,7 @@ datasette-block-robots
 datasette-auth-passwords
 datasette-insert
 datasette-copyable
-datasette-graphql
+datasette-graphql>=2.1
 datasette-yaml
 datasette-dateutil>=0.3
 datasette-indieauth
@@ -53,7 +53,7 @@ datasette-statistics
 datasette-jupyterlite
 datasette-hovercards
 datasette-pretty-traces>=0.4
-datasette-packages>=0.1.1
+datasette-packages>=0.2
 datasette-total-page-time
 datasette-gzip>=0.2
 datasette-copy-to-memory==0.2
