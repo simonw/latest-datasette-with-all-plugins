@@ -795,7 +795,7 @@ datasette-ics==0.5.2
     - python-dateutil [required: Any, installed: 2.8.2]
       - six [required: >=1.5, installed: 1.16.0]
     - six [required: >1.5, installed: 1.16.0]
-    - tatsu [required: >4.2, installed: 5.6.1]
+    - tatsu [required: >4.2, installed: 5.8.3]
 datasette-indieauth==1.2
   - datasette [required: Any, installed: 0.62a1]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
