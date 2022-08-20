@@ -2087,7 +2087,7 @@ datasette-upload-csvs==0.7.2
     - itsdangerous [required: Any, installed: 2.1.2]
     - python-multipart [required: Any, installed: 0.0.5]
       - six [required: >=1.4.0, installed: 1.16.0]
-  - charset-normalizer [required: Any, installed: 2.1.0]
+  - charset-normalizer [required: Any, installed: 2.1.1]
   - datasette [required: >=0.61, installed: 0.62]
     - aiofiles [required: >=0.4,<0.9, installed: 0.8.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
