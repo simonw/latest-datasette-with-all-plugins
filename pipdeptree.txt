@@ -1198,7 +1198,7 @@ datasette-jupyterlite==0.1a1
       - zipp [required: >=0.5, installed: 3.11.0]
     - jupyter-core [required: >=4.7, installed: 5.1.0]
       - platformdirs [required: >=2.5, installed: 2.6.0]
-      - traitlets [required: >=5.3, installed: 5.6.0]
+      - traitlets [required: >=5.3, installed: 5.7.0]
 datasette-leaflet-freedraw==0.3.1
   - datasette [required: >=0.60, installed: 1.0a1]
     - aiofiles [required: >=0.4, installed: 22.1.0]
@@ -2683,7 +2683,7 @@ datasette-yaml==0.1.1
       - h11 [required: >=0.8, installed: 0.14.0]
 pip==22.3.1
 pipdeptree==2.3.3
-pytest-asyncio==0.20.2
+pytest-asyncio==0.20.3
   - pytest [required: >=6.1.0, installed: 7.2.0]
     - attrs [required: >=19.2.0, installed: 22.1.0]
     - exceptiongroup [required: >=1.0.0rc8, installed: 1.0.4]
