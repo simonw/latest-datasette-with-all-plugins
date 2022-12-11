@@ -4,7 +4,7 @@ blacken-docs==1.12.1
   - black [required: >=19.3b0, installed: 22.10.0]
     - click [required: >=8.0.0, installed: 8.1.3]
     - mypy-extensions [required: >=0.4.3, installed: 0.4.3]
-    - pathspec [required: >=0.9.0, installed: 0.10.2]
+    - pathspec [required: >=0.9.0, installed: 0.10.3]
     - platformdirs [required: >=2, installed: 2.6.0]
     - tomli [required: >=1.1.0, installed: 2.0.1]
     - typing-extensions [required: >=3.10.0.0, installed: 4.4.0]
@@ -1858,7 +1858,7 @@ datasette-query-links==0.1.2
     - uvicorn [required: >=0.11, installed: 0.20.0]
       - click [required: >=7.0, installed: 8.1.3]
       - h11 [required: >=0.8, installed: 0.14.0]
-datasette-render-binary==0.3
+datasette-render-binary==0.3.1
   - datasette [required: Any, installed: 1.0a1]
     - aiofiles [required: >=0.4, installed: 22.1.0]
     - asgi-csrf [required: >=0.9, installed: 0.9]
