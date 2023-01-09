@@ -2688,7 +2688,7 @@ pytest-asyncio==0.20.3
     - attrs [required: >=19.2.0, installed: 22.2.0]
     - exceptiongroup [required: >=1.0.0rc8, installed: 1.1.0]
     - iniconfig [required: Any, installed: 2.0.0]
-    - packaging [required: Any, installed: 22.0]
+    - packaging [required: Any, installed: 23.0]
     - pluggy [required: >=0.12,<2.0, installed: 1.0.0]
     - tomli [required: >=1.0.0, installed: 2.0.1]
 pytest-timeout==2.1.0
@@ -2696,7 +2696,7 @@ pytest-timeout==2.1.0
     - attrs [required: >=19.2.0, installed: 22.2.0]
     - exceptiongroup [required: >=1.0.0rc8, installed: 1.1.0]
     - iniconfig [required: Any, installed: 2.0.0]
-    - packaging [required: Any, installed: 22.0]
+    - packaging [required: Any, installed: 23.0]
     - pluggy [required: >=0.12,<2.0, installed: 1.0.0]
     - tomli [required: >=1.0.0, installed: 2.0.1]
 pytest-xdist==3.1.0
@@ -2705,7 +2705,7 @@ pytest-xdist==3.1.0
     - attrs [required: >=19.2.0, installed: 22.2.0]
     - exceptiongroup [required: >=1.0.0rc8, installed: 1.1.0]
     - iniconfig [required: Any, installed: 2.0.0]
-    - packaging [required: Any, installed: 22.0]
+    - packaging [required: Any, installed: 23.0]
     - pluggy [required: >=0.12,<2.0, installed: 1.0.0]
     - tomli [required: >=1.0.0, installed: 2.0.1]
 setuptools==56.0.0
