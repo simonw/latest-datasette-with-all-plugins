@@ -2684,7 +2684,7 @@ datasette-yaml==0.1.1
 pip==22.3.1
 pipdeptree==2.3.3
 pytest-asyncio==0.20.3
-  - pytest [required: >=6.1.0, installed: 7.2.0]
+  - pytest [required: >=6.1.0, installed: 7.2.1]
     - attrs [required: >=19.2.0, installed: 22.2.0]
     - exceptiongroup [required: >=1.0.0rc8, installed: 1.1.0]
     - iniconfig [required: Any, installed: 2.0.0]
@@ -2692,7 +2692,7 @@ pytest-asyncio==0.20.3
     - pluggy [required: >=0.12,<2.0, installed: 1.0.0]
     - tomli [required: >=1.0.0, installed: 2.0.1]
 pytest-timeout==2.1.0
-  - pytest [required: >=5.0.0, installed: 7.2.0]
+  - pytest [required: >=5.0.0, installed: 7.2.1]
     - attrs [required: >=19.2.0, installed: 22.2.0]
     - exceptiongroup [required: >=1.0.0rc8, installed: 1.1.0]
     - iniconfig [required: Any, installed: 2.0.0]
@@ -2701,7 +2701,7 @@ pytest-timeout==2.1.0
     - tomli [required: >=1.0.0, installed: 2.0.1]
 pytest-xdist==3.1.0
   - execnet [required: >=1.1, installed: 1.9.0]
-  - pytest [required: >=6.2.0, installed: 7.2.0]
+  - pytest [required: >=6.2.0, installed: 7.2.1]
     - attrs [required: >=19.2.0, installed: 22.2.0]
     - exceptiongroup [required: >=1.0.0rc8, installed: 1.1.0]
     - iniconfig [required: Any, installed: 2.0.0]
