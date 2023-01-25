@@ -1196,7 +1196,7 @@ datasette-jupyterlite==0.1a1
         - zipp [required: >=0.5, installed: 3.11.0]
     - importlib-metadata [required: >=3.6, installed: 6.0.0]
       - zipp [required: >=0.5, installed: 3.11.0]
-    - jupyter-core [required: >=4.7, installed: 5.1.4]
+    - jupyter-core [required: >=4.7, installed: 5.1.5]
       - platformdirs [required: >=2.5, installed: 2.6.2]
       - traitlets [required: >=5.3, installed: 5.8.1]
 datasette-leaflet-freedraw==0.3.1
