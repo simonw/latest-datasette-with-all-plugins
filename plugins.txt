@@ -57,3 +57,4 @@ datasette-packages>=0.2
 datasette-total-page-time
 datasette-gzip>=0.2
 datasette-copy-to-memory==0.2
+datasette-sqlite-ulid
