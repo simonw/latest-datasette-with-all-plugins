@@ -2743,7 +2743,7 @@ pytest-timeout==2.1.0
     - packaging [required: Any, installed: 23.0]
     - pluggy [required: >=0.12,<2.0, installed: 1.0.0]
     - tomli [required: >=1.0.0, installed: 2.0.1]
-pytest-xdist==3.1.0
+pytest-xdist==3.2.0
   - execnet [required: >=1.1, installed: 1.9.0]
   - pytest [required: >=6.2.0, installed: 7.2.1]
     - attrs [required: >=19.2.0, installed: 22.2.0]
@@ -2754,7 +2754,7 @@ pytest-xdist==3.1.0
     - tomli [required: >=1.0.0, installed: 2.0.1]
 setuptools==56.0.0
 trustme==0.9.0
-  - cryptography [required: Any, installed: 39.0.0]
+  - cryptography [required: Any, installed: 39.0.1]
     - cffi [required: >=1.12, installed: 1.15.1]
       - pycparser [required: Any, installed: 2.21]
   - idna [required: Any, installed: 3.4]
