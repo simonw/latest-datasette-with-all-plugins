@@ -9,7 +9,7 @@ blacken-docs==1.12.1
     - tomli [required: >=1.1.0, installed: 2.0.1]
     - typing-extensions [required: >=3.10.0.0, installed: 4.5.0]
 cogapp==3.3.0
-datasette-atom==0.8.1
+datasette-atom==0.9
   - bleach [required: Any, installed: 6.0.0]
     - six [required: >=1.9.0, installed: 1.16.0]
     - webencodings [required: Any, installed: 0.5.1]
