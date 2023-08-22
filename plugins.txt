@@ -6,7 +6,7 @@ datasette-json-html
 datasette-render-images
 datasette-sqlite-fts4
 datasette-pretty-json
-datasette-jellyfish>=1.0
+# Broken: datasette-jellyfish>=1.0
 datasette-render-html
 # datasette-jq
 # datasette-bplist - https://github.com/simonw/latest-datasette-with-all-plugins/issues/10
