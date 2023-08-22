@@ -50,7 +50,7 @@ datasette-tiles
 datasette-pyinstrument
 datasette-query-links>=0.1.2
 datasette-statistics
-datasette-jupyterlite
+# Broken: datasette-jupyterlite
 datasette-hovercards
 datasette-pretty-traces>=0.4
 datasette-packages>=0.2
