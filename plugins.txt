@@ -42,7 +42,7 @@ datasette-yaml
 datasette-dateutil>=0.3
 datasette-indieauth
 datasette-css-properties>=0.2
-datasette-export-notebook>=1.0
+datasette-export-notebook>=1.0.1
 datasette-debug-asgi
 datasette-leaflet
 datasette-leaflet-freedraw
