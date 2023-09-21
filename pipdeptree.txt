@@ -1,14 +1,14 @@
 beautifulsoup4==4.12.2
 └── soupsieve [required: >1.2, installed: 2.5]
 blacken-docs==1.16.0
-└── black [required: >=22.1.0, installed: 23.7.0]
+└── black [required: >=22.1.0, installed: 23.9.1]
     ├── click [required: >=8.0.0, installed: 8.1.7]
     ├── mypy-extensions [required: >=0.4.3, installed: 1.0.0]
     ├── packaging [required: >=22.0, installed: 23.1]
     ├── pathspec [required: >=0.9.0, installed: 0.11.2]
     ├── platformdirs [required: >=2, installed: 3.10.0]
     ├── tomli [required: >=1.1.0, installed: 2.0.1]
-    └── typing-extensions [required: >=3.10.0.0, installed: 4.8.0]
+    └── typing-extensions [required: >=4.0.1, installed: 4.8.0]
 cogapp==3.3.0
 datasette-atom==0.9
 ├── bleach [required: Any, installed: 6.0.0]
@@ -1544,7 +1544,7 @@ datasette-leaflet-geojson==0.8
             ├── click [required: >=7.0, installed: 8.1.7]
             ├── h11 [required: >=0.8, installed: 0.14.0]
             └── typing-extensions [required: >=4.0, installed: 4.8.0]
-datasette-mask-columns==0.2.1
+datasette-mask-columns==0.2.2
 └── datasette [required: Any, installed: 1.0a6]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
