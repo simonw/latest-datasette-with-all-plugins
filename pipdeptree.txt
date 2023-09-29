@@ -2588,10 +2588,10 @@ datasette-rure==0.3
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing-extensions [required: >=4.0, installed: 4.8.0]
 └── rure [required: Any, installed: 0.2.2]
-    ├── cffi [required: >=1.5.0, installed: 1.15.1]
+    ├── cffi [required: >=1.5.0, installed: 1.16.0]
     │   └── pycparser [required: Any, installed: 2.21]
     ├── milksnake [required: Any, installed: 0.1.5]
-    │   └── cffi [required: >=1.6.0, installed: 1.15.1]
+    │   └── cffi [required: >=1.6.0, installed: 1.16.0]
     │       └── pycparser [required: Any, installed: 2.21]
     └── six [required: Any, installed: 1.16.0]
 datasette-saved-queries==0.2.1
@@ -3408,6 +3408,6 @@ pytest-xdist==3.3.1
     └── tomli [required: >=1.0.0, installed: 2.0.1]
 trustme==1.1.0
 ├── cryptography [required: >=3.1, installed: 41.0.4]
-│   └── cffi [required: >=1.12, installed: 1.15.1]
+│   └── cffi [required: >=1.12, installed: 1.16.0]
 │       └── pycparser [required: Any, installed: 2.21]
 └── idna [required: >=2.0, installed: 3.4]
