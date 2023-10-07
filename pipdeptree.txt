@@ -11,7 +11,7 @@ blacken-docs==1.16.0
     └── typing-extensions [required: >=4.0.1, installed: 4.8.0]
 cogapp==3.3.0
 datasette-atom==0.9
-├── bleach [required: Any, installed: 6.0.0]
+├── bleach [required: Any, installed: 6.1.0]
 │   ├── six [required: >=1.9.0, installed: 1.16.0]
 │   └── webencodings [required: Any, installed: 0.5.1]
 ├── datasette [required: >=0.49, installed: 1.0a7]
@@ -2424,7 +2424,7 @@ datasette-render-images==0.4
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.8.0]
 datasette-render-markdown==2.2.1
-├── bleach [required: Any, installed: 6.0.0]
+├── bleach [required: Any, installed: 6.1.0]
 │   ├── six [required: >=1.9.0, installed: 1.16.0]
 │   └── webencodings [required: Any, installed: 0.5.1]
 ├── datasette [required: Any, installed: 1.0a7]
@@ -2479,7 +2479,7 @@ datasette-render-markdown==2.2.1
 │       ├── click [required: >=7.0, installed: 8.1.7]
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing-extensions [required: >=4.0, installed: 4.8.0]
-└── Markdown [required: Any, installed: 3.4.4]
+└── Markdown [required: Any, installed: 3.5]
     └── importlib-metadata [required: >=4.4, installed: 6.8.0]
         └── zipp [required: >=0.5, installed: 3.17.0]
 datasette-render-timestamps==1.0.1
