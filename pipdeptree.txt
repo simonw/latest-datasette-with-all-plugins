@@ -2209,7 +2209,7 @@ datasette-pyinstrument==0.1
 │       ├── click [required: >=7.0, installed: 8.1.7]
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing-extensions [required: >=4.0, installed: 4.8.0]
-└── pyinstrument [required: Any, installed: 4.5.3]
+└── pyinstrument [required: Any, installed: 4.6.0]
 datasette-query-links==0.1.2
 └── datasette [required: >=0.59a1, installed: 1.0a7]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
@@ -2591,7 +2591,7 @@ datasette-rure==0.3
 └── rure [required: Any, installed: 0.2.2]
     ├── cffi [required: >=1.5.0, installed: 1.16.0]
     │   └── pycparser [required: Any, installed: 2.21]
-    ├── milksnake [required: Any, installed: 0.1.5]
+    ├── milksnake [required: Any, installed: 0.1.6]
     │   └── cffi [required: >=1.6.0, installed: 1.16.0]
     │       └── pycparser [required: Any, installed: 2.21]
     └── six [required: Any, installed: 1.16.0]
