@@ -718,7 +718,7 @@ datasette-debug-asgi==1.1
         ├── click [required: >=7.0, installed: 8.1.7]
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.8.0]
-datasette-edit-schema==0.6
+datasette-edit-schema==0.7
 ├── datasette [required: >=0.63, installed: 1.0a7]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
