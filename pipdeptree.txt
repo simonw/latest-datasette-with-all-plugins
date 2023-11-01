@@ -2479,7 +2479,7 @@ datasette-render-markdown==2.2.1
 │       ├── click [required: >=7.0, installed: 8.1.7]
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing-extensions [required: >=4.0, installed: 4.8.0]
-└── Markdown [required: Any, installed: 3.5]
+└── Markdown [required: Any, installed: 3.5.1]
     └── importlib-metadata [required: >=4.4, installed: 6.8.0]
         └── zipp [required: >=0.5, installed: 3.17.0]
 datasette-render-timestamps==1.0.1
