@@ -3322,7 +3322,7 @@ datasette-yaml==0.1.1
         ├── click [required: >=7.0, installed: 8.1.7]
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.8.0]
-pipdeptree==2.13.0
+pipdeptree==2.13.1
 pytest-asyncio==0.21.1
 └── pytest [required: >=7.0.0, installed: 7.4.3]
     ├── exceptiongroup [required: >=1.0.0rc8, installed: 1.1.3]
