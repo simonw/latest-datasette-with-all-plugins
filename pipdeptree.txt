@@ -282,7 +282,7 @@ datasette-block-robots==1.1
         ├── click [required: >=7.0, installed: 8.1.7]
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
-datasette-cluster-map==0.17.2
+datasette-cluster-map==0.18
 ├── datasette [required: >=0.54, installed: 1.0a8.dev1]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
