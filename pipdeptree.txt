@@ -1,4 +1,4 @@
-beautifulsoup4==4.12.2
+beautifulsoup4==4.12.3
 └── soupsieve [required: >1.2, installed: 2.5]
 blacken-docs==1.16.0
 └── black [required: >=22.1.0, installed: 23.9.1]
