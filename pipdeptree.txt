@@ -3143,7 +3143,7 @@ datasette-total-page-time==0.1
         ├── click [required: >=7.0, installed: 8.1.7]
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
-datasette-upload-csvs==0.8.3
+datasette-upload-csvs==0.9
 ├── aiofiles [required: Any, installed: 23.2.1]
 ├── asgi-csrf [required: >=0.7, installed: 0.9]
 │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -3410,7 +3410,7 @@ pytest-xdist==3.5.0
     ├── pluggy [required: >=0.12,<2.0, installed: 1.4.0]
     └── tomli [required: >=1.0.0, installed: 2.0.1]
 trustme==1.1.0
-├── cryptography [required: >=3.1, installed: 42.0.1]
+├── cryptography [required: >=3.1, installed: 42.0.2]
 │   └── cffi [required: >=1.12, installed: 1.16.0]
 │       └── pycparser [required: Any, installed: 2.21]
 └── idna [required: >=2.0, installed: 3.6]
