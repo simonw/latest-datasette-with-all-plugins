@@ -14,7 +14,7 @@ datasette-atom==0.9
 ├── bleach [required: Any, installed: 6.1.0]
 │   ├── six [required: >=1.9.0, installed: 1.16.0]
 │   └── webencodings [required: Any, installed: 0.5.1]
-├── datasette [required: >=0.49, installed: 1.0a8.dev1]
+├── datasette [required: >=0.49, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -71,7 +71,7 @@ datasette-atom==0.9
     └── python-dateutil [required: Any, installed: 2.8.2]
         └── six [required: >=1.5, installed: 1.16.0]
 datasette-auth-github==0.13.1
-└── datasette [required: >=0.51, installed: 1.0a8.dev1]
+└── datasette [required: >=0.51, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -124,7 +124,7 @@ datasette-auth-github==0.13.1
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-auth-passwords==1.1
-└── datasette [required: >=0.59, installed: 1.0a8.dev1]
+└── datasette [required: >=0.59, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -177,7 +177,7 @@ datasette-auth-passwords==1.1
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-auth-tokens==0.3
-└── datasette [required: >=0.44, installed: 1.0a8.dev1]
+└── datasette [required: >=0.44, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -230,7 +230,7 @@ datasette-auth-tokens==0.3
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-block-robots==1.1
-└── datasette [required: >=0.50, installed: 1.0a8.dev1]
+└── datasette [required: >=0.50, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -283,7 +283,7 @@ datasette-block-robots==1.1
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-cluster-map==0.18.1
-├── datasette [required: >=0.54, installed: 1.0a8.dev1]
+├── datasette [required: >=0.54, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -336,7 +336,7 @@ datasette-cluster-map==0.18.1
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── datasette-leaflet [required: >=0.2.2, installed: 0.2.2]
-    └── datasette [required: Any, installed: 1.0a8.dev1]
+    └── datasette [required: Any, installed: 1.0a8]
         ├── aiofiles [required: >=0.4, installed: 23.2.1]
         ├── asgi-csrf [required: >=0.9, installed: 0.9]
         │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -389,7 +389,7 @@ datasette-cluster-map==0.18.1
             ├── h11 [required: >=0.8, installed: 0.14.0]
             └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-configure-fts==1.1.2
-├── datasette [required: >=0.51, installed: 1.0a8.dev1]
+├── datasette [required: >=0.51, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -451,7 +451,7 @@ datasette-configure-fts==1.1.2
     ├── sqlite-fts4 [required: Any, installed: 1.0.3]
     └── tabulate [required: Any, installed: 0.9.0]
 datasette-copy-to-memory==0.2
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -504,7 +504,7 @@ datasette-copy-to-memory==0.2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-copyable==0.3.2
-├── datasette [required: >=0.63, installed: 1.0a8.dev1]
+├── datasette [required: >=0.63, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -558,7 +558,7 @@ datasette-copyable==0.3.2
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── tabulate [required: Any, installed: 0.9.0]
 datasette-css-properties==0.2
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -611,7 +611,7 @@ datasette-css-properties==0.2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-dateutil==0.3
-├── datasette [required: Any, installed: 1.0a8.dev1]
+├── datasette [required: Any, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -666,7 +666,7 @@ datasette-dateutil==0.3
 └── python-dateutil [required: Any, installed: 2.8.2]
     └── six [required: >=1.5, installed: 1.16.0]
 datasette-debug-asgi==1.1
-└── datasette [required: >=0.50, installed: 1.0a8.dev1]
+└── datasette [required: >=0.50, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -719,7 +719,7 @@ datasette-debug-asgi==1.1
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-edit-schema==0.7.1
-├── datasette [required: >=0.63, installed: 1.0a8.dev1]
+├── datasette [required: >=0.63, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -781,7 +781,7 @@ datasette-edit-schema==0.7.1
     ├── sqlite-fts4 [required: Any, installed: 1.0.3]
     └── tabulate [required: Any, installed: 0.9.0]
 datasette-explain==0.1a2
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -834,7 +834,7 @@ datasette-explain==0.1a2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-export-notebook==1.0.1
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -887,7 +887,7 @@ datasette-export-notebook==1.0.1
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-graphql==2.2
-├── datasette [required: >=0.58.1, installed: 1.0a8.dev1]
+├── datasette [required: >=0.58.1, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -956,7 +956,7 @@ datasette-graphql==2.2
     └── tabulate [required: Any, installed: 0.9.0]
 datasette-gzip==0.2
 ├── asgi-gzip [required: Any, installed: 0.2]
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1009,7 +1009,7 @@ datasette-gzip==0.2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-haversine==0.2.1
-├── datasette [required: Any, installed: 1.0a8.dev1]
+├── datasette [required: Any, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1063,7 +1063,7 @@ datasette-haversine==0.2.1
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── haversine [required: Any, installed: 2.8.1]
 datasette-hovercards==0.1a0
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1116,7 +1116,7 @@ datasette-hovercards==0.1a0
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-ics==0.5.2
-├── datasette [required: >=0.49, installed: 1.0a8.dev1]
+├── datasette [required: >=0.49, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1179,7 +1179,7 @@ datasette-ics==0.5.2
     ├── six [required: >1.5, installed: 1.16.0]
     └── TatSu [required: >4.2, installed: 5.8.3]
 datasette-indieauth==1.2.2
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1232,7 +1232,7 @@ datasette-indieauth==1.2.2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-insert==0.8
-├── datasette [required: >=0.46, installed: 1.0a8.dev1]
+├── datasette [required: >=0.46, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1294,7 +1294,7 @@ datasette-insert==0.8
     ├── sqlite-fts4 [required: Any, installed: 1.0.3]
     └── tabulate [required: Any, installed: 0.9.0]
 datasette-jellyfish==2.0
-├── datasette [required: Any, installed: 1.0a8.dev1]
+├── datasette [required: Any, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1348,7 +1348,7 @@ datasette-jellyfish==2.0
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── jellyfish [required: >0.9.0, installed: 1.0.3]
 datasette-json-html==1.0.1
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1401,7 +1401,7 @@ datasette-json-html==1.0.1
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-json-preview==0.3
-└── datasette [required: >=0.55, installed: 1.0a8.dev1]
+└── datasette [required: >=0.55, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1454,7 +1454,7 @@ datasette-json-preview==0.3
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-leaflet-freedraw==0.3.1
-├── datasette [required: >=0.60, installed: 1.0a8.dev1]
+├── datasette [required: >=0.60, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1507,7 +1507,7 @@ datasette-leaflet-freedraw==0.3.1
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── datasette-leaflet [required: >=0.2, installed: 0.2.2]
-    └── datasette [required: Any, installed: 1.0a8.dev1]
+    └── datasette [required: Any, installed: 1.0a8]
         ├── aiofiles [required: >=0.4, installed: 23.2.1]
         ├── asgi-csrf [required: >=0.9, installed: 0.9]
         │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1560,7 +1560,7 @@ datasette-leaflet-freedraw==0.3.1
             ├── h11 [required: >=0.8, installed: 0.14.0]
             └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-leaflet-geojson==0.8.1
-├── datasette [required: >=0.54, installed: 1.0a8.dev1]
+├── datasette [required: >=0.54, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1613,7 +1613,7 @@ datasette-leaflet-geojson==0.8.1
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── datasette-leaflet [required: >=0.2, installed: 0.2.2]
-    └── datasette [required: Any, installed: 1.0a8.dev1]
+    └── datasette [required: Any, installed: 1.0a8]
         ├── aiofiles [required: >=0.4, installed: 23.2.1]
         ├── asgi-csrf [required: >=0.9, installed: 0.9]
         │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1666,7 +1666,7 @@ datasette-leaflet-geojson==0.8.1
             ├── h11 [required: >=0.8, installed: 0.14.0]
             └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-mask-columns==0.2.2
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1719,7 +1719,7 @@ datasette-mask-columns==0.2.2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-media==0.5.1
-├── datasette [required: >=0.44, installed: 1.0a8.dev1]
+├── datasette [required: >=0.44, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1785,7 +1785,7 @@ datasette-media==0.5.1
 │   └── sniffio [required: Any, installed: 1.3.0]
 └── pillow [required: >=7.1.2, installed: 10.2.0]
 datasette-packages==0.2
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1838,7 +1838,7 @@ datasette-packages==0.2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-permissions-sql==0.3a0
-└── datasette [required: >=0.44, installed: 1.0a8.dev1]
+└── datasette [required: >=0.44, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1891,7 +1891,7 @@ datasette-permissions-sql==0.3a0
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-pretty-json==0.3
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1944,7 +1944,7 @@ datasette-pretty-json==0.3
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-pretty-traces==0.4
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -1997,7 +1997,7 @@ datasette-pretty-traces==0.4
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-psutil==0.2
-├── datasette [required: >=0.44, installed: 1.0a8.dev1]
+├── datasette [required: >=0.44, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2051,7 +2051,7 @@ datasette-psutil==0.2
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── psutil [required: Any, installed: 5.9.8]
 datasette-publish-fly==1.3.1
-└── datasette [required: >=0.60.2, installed: 1.0a8.dev1]
+└── datasette [required: >=0.60.2, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2104,7 +2104,7 @@ datasette-publish-fly==1.3.1
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-publish-vercel==0.14.2
-└── datasette [required: >=0.59, installed: 1.0a8.dev1]
+└── datasette [required: >=0.59, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2157,7 +2157,7 @@ datasette-publish-vercel==0.14.2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-pyinstrument==0.1
-├── datasette [required: Any, installed: 1.0a8.dev1]
+├── datasette [required: Any, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2211,7 +2211,7 @@ datasette-pyinstrument==0.1
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── pyinstrument [required: Any, installed: 4.6.2]
 datasette-query-links==0.1.2
-└── datasette [required: >=0.59a1, installed: 1.0a8.dev1]
+└── datasette [required: >=0.59a1, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2264,7 +2264,7 @@ datasette-query-links==0.1.2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-render-binary==0.3.1
-├── datasette [required: Any, installed: 1.0a8.dev1]
+├── datasette [required: Any, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2318,7 +2318,7 @@ datasette-render-binary==0.3.1
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── filetype [required: Any, installed: 1.2.0]
 datasette-render-html==1.0
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2371,7 +2371,7 @@ datasette-render-html==1.0
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-render-images==0.4
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2427,7 +2427,7 @@ datasette-render-markdown==2.2.1
 ├── bleach [required: Any, installed: 6.1.0]
 │   ├── six [required: >=1.9.0, installed: 1.16.0]
 │   └── webencodings [required: Any, installed: 0.5.1]
-├── datasette [required: Any, installed: 1.0a8.dev1]
+├── datasette [required: Any, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2483,7 +2483,7 @@ datasette-render-markdown==2.2.1
     └── importlib-metadata [required: >=4.4, installed: 7.0.1]
         └── zipp [required: >=0.5, installed: 3.17.0]
 datasette-render-timestamps==1.0.1
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2536,7 +2536,7 @@ datasette-render-timestamps==1.0.1
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-rure==0.3
-├── datasette [required: Any, installed: 1.0a8.dev1]
+├── datasette [required: Any, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2596,7 +2596,7 @@ datasette-rure==0.3
     │       └── pycparser [required: Any, installed: 2.21]
     └── six [required: Any, installed: 1.16.0]
 datasette-saved-queries==0.2.1
-├── datasette [required: >=0.45, installed: 1.0a8.dev1]
+├── datasette [required: >=0.45, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2658,7 +2658,7 @@ datasette-saved-queries==0.2.1
     ├── sqlite-fts4 [required: Any, installed: 1.0.3]
     └── tabulate [required: Any, installed: 0.9.0]
 datasette-search-all==1.1.2
-└── datasette [required: >=0.63.1, installed: 1.0a8.dev1]
+└── datasette [required: >=0.63.1, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2711,7 +2711,7 @@ datasette-search-all==1.1.2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-show-errors==0.2
-├── datasette [required: Any, installed: 1.0a8.dev1]
+├── datasette [required: Any, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2771,7 +2771,7 @@ datasette-show-errors==0.2
     │   └── typing-extensions [required: >=4.1, installed: 4.9.0]
     └── typing-extensions [required: >=3.10.0, installed: 4.9.0]
 datasette-sqlite-fts4==0.3.2
-├── datasette [required: Any, installed: 1.0a8.dev1]
+├── datasette [required: Any, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2825,7 +2825,7 @@ datasette-sqlite-fts4==0.3.2
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── sqlite-fts4 [required: >=1.0.3, installed: 1.0.3]
 datasette-sqlite-ulid==0.2.1
-├── datasette [required: Any, installed: 1.0a8.dev1]
+├── datasette [required: Any, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2879,7 +2879,7 @@ datasette-sqlite-ulid==0.2.1
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── sqlite-ulid [required: Any, installed: 0.2.1]
 datasette-statistics==0.2.1
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2932,7 +2932,7 @@ datasette-statistics==0.2.1
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-template-sql==1.0.2
-└── datasette [required: >=0.54, installed: 1.0a8.dev1]
+└── datasette [required: >=0.54, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -2985,7 +2985,7 @@ datasette-template-sql==1.0.2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-tiles==0.6.1
-├── datasette [required: Any, installed: 1.0a8.dev1]
+├── datasette [required: Any, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -3038,7 +3038,7 @@ datasette-tiles==0.6.1
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing-extensions [required: >=4.0, installed: 4.9.0]
 └── datasette-leaflet [required: >=0.2.2, installed: 0.2.2]
-    └── datasette [required: Any, installed: 1.0a8.dev1]
+    └── datasette [required: Any, installed: 1.0a8]
         ├── aiofiles [required: >=0.4, installed: 23.2.1]
         ├── asgi-csrf [required: >=0.9, installed: 0.9]
         │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -3091,7 +3091,7 @@ datasette-tiles==0.6.1
             ├── h11 [required: >=0.8, installed: 0.14.0]
             └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-total-page-time==0.1
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -3149,7 +3149,7 @@ datasette-upload-csvs==0.9
 │   ├── itsdangerous [required: Any, installed: 2.1.2]
 │   └── python-multipart [required: Any, installed: 0.0.7]
 ├── charset-normalizer [required: Any, installed: 3.3.2]
-├── datasette [required: >=0.61, installed: 1.0a8.dev1]
+├── datasette [required: >=0.61, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -3219,7 +3219,7 @@ datasette-upload-csvs==0.9
     │   └── typing-extensions [required: >=4.1, installed: 4.9.0]
     └── typing-extensions [required: >=3.10.0, installed: 4.9.0]
 datasette-vega==0.6.2
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -3272,7 +3272,7 @@ datasette-vega==0.6.2
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing-extensions [required: >=4.0, installed: 4.9.0]
 datasette-write-ui==0.0.1a9
-├── datasette [required: >=1.0a1, installed: 1.0a8.dev1]
+├── datasette [required: >=1.0a1, installed: 1.0a8]
 │   ├── aiofiles [required: >=0.4, installed: 23.2.1]
 │   ├── asgi-csrf [required: >=0.9, installed: 0.9]
 │   │   ├── itsdangerous [required: Any, installed: 2.1.2]
@@ -3334,7 +3334,7 @@ datasette-write-ui==0.0.1a9
     ├── sqlite-fts4 [required: Any, installed: 1.0.3]
     └── tabulate [required: Any, installed: 0.9.0]
 datasette-yaml==0.1.1
-└── datasette [required: Any, installed: 1.0a8.dev1]
+└── datasette [required: Any, installed: 1.0a8]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
     ├── asgi-csrf [required: >=0.9, installed: 0.9]
     │   ├── itsdangerous [required: Any, installed: 2.1.2]
