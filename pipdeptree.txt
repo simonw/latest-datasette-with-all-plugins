@@ -3387,7 +3387,7 @@ datasette-yaml==0.1.1
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing_extensions [required: >=4.0, installed: 4.10.0]
 pipdeptree==2.16.1
-pytest-asyncio==0.23.5
+pytest-asyncio==0.23.5.post1
 └── pytest [required: >=7.0.0,<9, installed: 8.0.2]
     ├── exceptiongroup [required: >=1.0.0rc8, installed: 1.2.0]
     ├── iniconfig [required: Any, installed: 2.0.0]
