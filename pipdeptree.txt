@@ -1783,7 +1783,7 @@ datasette-media==0.5.1
 │   │   └── h11 [required: >=0.13,<0.15, installed: 0.14.0]
 │   ├── idna [required: Any, installed: 3.6]
 │   └── sniffio [required: Any, installed: 1.3.1]
-└── pillow [required: >=7.1.2, installed: 10.2.0]
+└── pillow [required: >=7.1.2, installed: 10.3.0]
 datasette-packages==0.2.1
 └── datasette [required: Any, installed: 1.0a13]
     ├── aiofiles [required: >=0.4, installed: 23.2.1]
