@@ -3404,7 +3404,7 @@ pytest-timeout==2.3.1
     ├── pluggy [required: >=1.4,<2.0, installed: 1.4.0]
     └── tomli [required: >=1, installed: 2.0.1]
 pytest-xdist==3.5.0
-├── execnet [required: >=1.1, installed: 2.1.0]
+├── execnet [required: >=1.1, installed: 2.1.1]
 └── pytest [required: >=6.2.0, installed: 8.1.1]
     ├── exceptiongroup [required: >=1.0.0rc8, installed: 1.2.0]
     ├── iniconfig [required: Any, installed: 2.0.0]
