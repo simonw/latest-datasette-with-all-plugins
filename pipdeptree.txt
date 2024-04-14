@@ -3386,7 +3386,7 @@ datasette-yaml==0.1.1
         ├── click [required: >=7.0, installed: 8.1.7]
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing_extensions [required: >=4.0, installed: 4.11.0]
-pipdeptree==2.18.0
+pipdeptree==2.18.1
 ├── packaging [required: >=23.1, installed: 24.0]
 └── pip [required: >=23.1.2, installed: 24.0]
 pytest-asyncio==0.23.6
