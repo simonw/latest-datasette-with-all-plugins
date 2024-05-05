@@ -3412,7 +3412,7 @@ pytest-xdist==3.6.1
     ├── pluggy [required: >=1.5,<2.0, installed: 1.5.0]
     └── tomli [required: >=1, installed: 2.0.1]
 trustme==1.1.0
-├── cryptography [required: >=3.1, installed: 42.0.5]
+├── cryptography [required: >=3.1, installed: 42.0.6]
 │   └── cffi [required: >=1.12, installed: 1.16.0]
 │       └── pycparser [required: Any, installed: 2.22]
 └── idna [required: >=2.0, installed: 3.7]
