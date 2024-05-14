@@ -67,7 +67,7 @@ datasette-atom==0.9
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing_extensions [required: >=4.0, installed: 4.11.0]
 └── feedgen [required: Any, installed: 1.0.0]
-    ├── lxml [required: Any, installed: 5.2.1]
+    ├── lxml [required: Any, installed: 5.2.2]
     └── python-dateutil [required: Any, installed: 2.9.0.post0]
         └── six [required: >=1.5, installed: 1.16.0]
 datasette-auth-github==0.13.1
