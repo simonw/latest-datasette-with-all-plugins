@@ -6,7 +6,7 @@ blacken-docs==1.16.0
     ├── mypy-extensions [required: >=0.4.3, installed: 1.0.0]
     ├── packaging [required: >=22.0, installed: 24.0]
     ├── pathspec [required: >=0.9.0, installed: 0.12.1]
-    ├── platformdirs [required: >=2, installed: 4.2.1]
+    ├── platformdirs [required: >=2, installed: 4.2.2]
     ├── tomli [required: >=1.1.0, installed: 2.0.1]
     └── typing_extensions [required: >=4.0.1, installed: 4.11.0]
 cogapp==3.4.1
