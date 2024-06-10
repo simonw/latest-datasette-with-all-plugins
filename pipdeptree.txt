@@ -4,7 +4,7 @@ blacken-docs==1.16.0
 └── black [required: >=22.1.0, installed: 24.2.0]
     ├── click [required: >=8.0.0, installed: 8.1.7]
     ├── mypy-extensions [required: >=0.4.3, installed: 1.0.0]
-    ├── packaging [required: >=22.0, installed: 24.0]
+    ├── packaging [required: >=22.0, installed: 24.1]
     ├── pathspec [required: >=0.9.0, installed: 0.12.1]
     ├── platformdirs [required: >=2, installed: 4.2.2]
     ├── tomli [required: >=1.1.0, installed: 2.0.1]
@@ -3387,20 +3387,20 @@ datasette-yaml==0.1.1
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing_extensions [required: >=4.0, installed: 4.12.2]
 pipdeptree==2.22.0
-├── packaging [required: >=23.1, installed: 24.0]
+├── packaging [required: >=23.1, installed: 24.1]
 └── pip [required: >=23.1.2, installed: 24.0]
 pytest-asyncio==0.23.7
 └── pytest [required: >=7.0.0,<9, installed: 8.2.2]
     ├── exceptiongroup [required: >=1.0.0rc8, installed: 1.2.1]
     ├── iniconfig [required: Any, installed: 2.0.0]
-    ├── packaging [required: Any, installed: 24.0]
+    ├── packaging [required: Any, installed: 24.1]
     ├── pluggy [required: >=1.5,<2.0, installed: 1.5.0]
     └── tomli [required: >=1, installed: 2.0.1]
 pytest-timeout==2.3.1
 └── pytest [required: >=7.0.0, installed: 8.2.2]
     ├── exceptiongroup [required: >=1.0.0rc8, installed: 1.2.1]
     ├── iniconfig [required: Any, installed: 2.0.0]
-    ├── packaging [required: Any, installed: 24.0]
+    ├── packaging [required: Any, installed: 24.1]
     ├── pluggy [required: >=1.5,<2.0, installed: 1.5.0]
     └── tomli [required: >=1, installed: 2.0.1]
 pytest-xdist==3.6.1
@@ -3408,7 +3408,7 @@ pytest-xdist==3.6.1
 └── pytest [required: >=7.0.0, installed: 8.2.2]
     ├── exceptiongroup [required: >=1.0.0rc8, installed: 1.2.1]
     ├── iniconfig [required: Any, installed: 2.0.0]
-    ├── packaging [required: Any, installed: 24.0]
+    ├── packaging [required: Any, installed: 24.1]
     ├── pluggy [required: >=1.5,<2.0, installed: 1.5.0]
     └── tomli [required: >=1, installed: 2.0.1]
 trustme==1.1.0
