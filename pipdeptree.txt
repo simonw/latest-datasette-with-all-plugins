@@ -1,7 +1,7 @@
 beautifulsoup4==4.12.3
 └── soupsieve [required: >1.2, installed: 2.5]
-blacken-docs==1.16.0
-└── black [required: >=22.1.0, installed: 24.2.0]
+blacken-docs==1.18.0
+└── black [required: >=22.1, installed: 24.4.2]
     ├── click [required: >=8.0.0, installed: 8.1.7]
     ├── mypy-extensions [required: >=0.4.3, installed: 1.0.0]
     ├── packaging [required: >=22.0, installed: 24.1]
