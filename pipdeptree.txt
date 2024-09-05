@@ -924,10 +924,10 @@ datasette-graphql==2.2
 │       └── typing_extensions [required: >=4.0, installed: 4.12.2]
 ├── graphene [required: >=3.1.0,<4.0, installed: 3.3]
 │   ├── aniso8601 [required: >=8,<10, installed: 9.0.1]
-│   ├── graphql-core [required: >=3.1,<3.3, installed: 3.2.3]
+│   ├── graphql-core [required: >=3.1,<3.3, installed: 3.2.4]
 │   └── graphql-relay [required: >=3.1,<3.3, installed: 3.2.0]
-│       └── graphql-core [required: >=3.2,<3.3, installed: 3.2.3]
-├── graphql-core [required: >=3.2.1, installed: 3.2.3]
+│       └── graphql-core [required: >=3.2,<3.3, installed: 3.2.4]
+├── graphql-core [required: >=3.2.1, installed: 3.2.4]
 └── sqlite-utils [required: Any, installed: 3.37]
     ├── click [required: Any, installed: 8.1.7]
     ├── click-default-group [required: >=1.2.3, installed: 1.2.4]
@@ -2542,10 +2542,10 @@ datasette-rure==0.3
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing_extensions [required: >=4.0, installed: 4.12.2]
 └── rure [required: Any, installed: 0.2.2]
-    ├── cffi [required: >=1.5.0, installed: 1.17.0]
+    ├── cffi [required: >=1.5.0, installed: 1.17.1]
     │   └── pycparser [required: Any, installed: 2.22]
     ├── milksnake [required: Any, installed: 0.1.6]
-    │   └── cffi [required: >=1.6.0, installed: 1.17.0]
+    │   └── cffi [required: >=1.6.0, installed: 1.17.1]
     │       └── pycparser [required: Any, installed: 2.22]
     └── six [required: Any, installed: 1.16.0]
 datasette-saved-queries==0.2.2
@@ -2609,7 +2609,7 @@ datasette-saved-queries==0.2.2
     │   └── six [required: >=1.5, installed: 1.16.0]
     ├── sqlite-fts4 [required: Any, installed: 1.0.3]
     └── tabulate [required: Any, installed: 0.9.0]
-datasette-search-all==1.1.2
+datasette-search-all==1.1.3
 └── datasette [required: >=0.63.1, installed: 1.0a15]
     ├── aiofiles [required: >=0.4, installed: 24.1.0]
     ├── asgi-csrf [required: >=0.10, installed: 0.10]
@@ -3352,6 +3352,6 @@ pytest-xdist==3.6.1
     └── tomli [required: >=1, installed: 2.0.1]
 trustme==1.1.0
 ├── cryptography [required: >=3.1, installed: 43.0.1]
-│   └── cffi [required: >=1.12, installed: 1.17.0]
+│   └── cffi [required: >=1.12, installed: 1.17.1]
 │       └── pycparser [required: Any, installed: 2.22]
 └── idna [required: >=2.0, installed: 3.8]
