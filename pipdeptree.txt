@@ -6,7 +6,7 @@ blacken-docs==1.18.0
     ├── mypy-extensions [required: >=0.4.3, installed: 1.0.0]
     ├── packaging [required: >=22.0, installed: 24.1]
     ├── pathspec [required: >=0.9.0, installed: 0.12.1]
-    ├── platformdirs [required: >=2, installed: 4.2.2]
+    ├── platformdirs [required: >=2, installed: 4.3.1]
     ├── tomli [required: >=1.1.0, installed: 2.0.1]
     └── typing_extensions [required: >=4.0.1, installed: 4.12.2]
 cogapp==3.4.1
@@ -3325,9 +3325,9 @@ datasette-yaml==0.1.1
         ├── click [required: >=7.0, installed: 8.1.7]
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing_extensions [required: >=4.0, installed: 4.12.2]
-pipdeptree==2.23.1
-├── packaging [required: >=23.1, installed: 24.1]
-└── pip [required: >=23.1.2, installed: 24.2]
+pipdeptree==2.23.3
+├── packaging [required: >=24.1, installed: 24.1]
+└── pip [required: >=24.2, installed: 24.2]
 pytest-asyncio==0.24.0
 └── pytest [required: >=8.2,<9, installed: 8.3.2]
     ├── exceptiongroup [required: >=1.0.0rc8, installed: 1.2.2]
