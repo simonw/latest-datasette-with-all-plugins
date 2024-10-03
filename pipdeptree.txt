@@ -7,7 +7,7 @@ blacken-docs==1.18.0
     ├── packaging [required: >=22.0, installed: 24.1]
     ├── pathspec [required: >=0.9.0, installed: 0.12.1]
     ├── platformdirs [required: >=2, installed: 4.3.6]
-    ├── tomli [required: >=1.1.0, installed: 2.0.1]
+    ├── tomli [required: >=1.1.0, installed: 2.0.2]
     └── typing_extensions [required: >=4.0.1, installed: 4.12.2]
 cogapp==3.4.1
 datasette-atom==0.9
@@ -3334,14 +3334,14 @@ pytest-asyncio==0.24.0
     ├── iniconfig [required: Any, installed: 2.0.0]
     ├── packaging [required: Any, installed: 24.1]
     ├── pluggy [required: >=1.5,<2, installed: 1.5.0]
-    └── tomli [required: >=1, installed: 2.0.1]
+    └── tomli [required: >=1, installed: 2.0.2]
 pytest-timeout==2.3.1
 └── pytest [required: >=7.0.0, installed: 8.3.3]
     ├── exceptiongroup [required: >=1.0.0rc8, installed: 1.2.2]
     ├── iniconfig [required: Any, installed: 2.0.0]
     ├── packaging [required: Any, installed: 24.1]
     ├── pluggy [required: >=1.5,<2, installed: 1.5.0]
-    └── tomli [required: >=1, installed: 2.0.1]
+    └── tomli [required: >=1, installed: 2.0.2]
 pytest-xdist==3.6.1
 ├── execnet [required: >=2.1, installed: 2.1.1]
 └── pytest [required: >=7.0.0, installed: 8.3.3]
@@ -3349,7 +3349,7 @@ pytest-xdist==3.6.1
     ├── iniconfig [required: Any, installed: 2.0.0]
     ├── packaging [required: Any, installed: 24.1]
     ├── pluggy [required: >=1.5,<2, installed: 1.5.0]
-    └── tomli [required: >=1, installed: 2.0.1]
+    └── tomli [required: >=1, installed: 2.0.2]
 trustme==1.1.0
 ├── cryptography [required: >=3.1, installed: 43.0.1]
 │   └── cffi [required: >=1.12, installed: 1.17.1]
