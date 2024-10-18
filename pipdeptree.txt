@@ -2015,7 +2015,7 @@ datasette-psutil==0.2
 │       ├── click [required: >=7.0, installed: 8.1.7]
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing_extensions [required: >=4.0, installed: 4.12.2]
-└── psutil [required: Any, installed: 6.0.0]
+└── psutil [required: Any, installed: 6.1.0]
 datasette-publish-fly==1.3.1
 └── datasette [required: >=0.60.2, installed: 1.0a16]
     ├── aiofiles [required: >=0.4, installed: 24.1.0]
