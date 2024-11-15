@@ -3217,7 +3217,7 @@ datasette-vega==0.6.2
         ├── click [required: >=7.0, installed: 8.1.7]
         ├── h11 [required: >=0.8, installed: 0.14.0]
         └── typing_extensions [required: >=4.0, installed: 4.12.2]
-datasette-write-ui==0.0.1a9
+datasette-write-ui==0.0.1a11
 ├── datasette [required: >=1.0a1, installed: 1.0a16]
 │   ├── aiofiles [required: >=0.4, installed: 24.1.0]
 │   ├── asgi-csrf [required: >=0.10, installed: 0.10]
