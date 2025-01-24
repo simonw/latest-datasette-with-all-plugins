@@ -2133,7 +2133,7 @@ datasette-pyinstrument==0.1
 │       ├── click [required: >=7.0, installed: 8.1.8]
 │       ├── h11 [required: >=0.8, installed: 0.14.0]
 │       └── typing_extensions [required: >=4.0, installed: 4.12.2]
-└── pyinstrument [required: Any, installed: 5.0.0]
+└── pyinstrument [required: Any, installed: 5.0.1]
 datasette-query-links==0.1.2
 └── datasette [required: >=0.59a1, installed: 1.0a16]
     ├── aiofiles [required: >=0.4, installed: 24.1.0]
