@@ -1,6 +1,6 @@
-beautifulsoup4==4.13.0
+beautifulsoup4==4.13.1
 ├── soupsieve [required: >1.2, installed: 2.6]
-└── typing_extensions [required: Any, installed: 4.12.2]
+└── typing_extensions [required: >=4.0.0, installed: 4.12.2]
 blacken-docs==1.18.0
 └── black [required: >=22.1, installed: 24.8.0]
     ├── click [required: >=8.0.0, installed: 8.1.8]
